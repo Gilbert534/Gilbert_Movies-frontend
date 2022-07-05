@@ -5,7 +5,7 @@ import { render } from '@testing-library/react';
 import YouTube from 'react-youtube';
 import LoginSignup from './components/LoginSignup';
 
-const NODE_URL = 'https://gilbert-movies-backend.herokuapp.com/'
+const NODE_URL = 'https://gilbert-movies-backend.herokuapp.com'
 
 const posterSite = "https://image.tmdb.org/t/p/w500"
 
